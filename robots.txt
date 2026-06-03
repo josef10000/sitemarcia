@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://meimpressoes3d.hubsymples.com.br/sitemap.xml
